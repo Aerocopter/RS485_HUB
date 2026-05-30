@@ -2,7 +2,6 @@
 
 A clean base project for **STM32H753IIK6** rs485 hub development.  
 Generated with STM32CubeMX, built with **GCC ARM toolchain** and **HAL library**, and verified with a simple LED blinking on PC15.  
-This repository serves as a minimal, well-structured foundation for further flight control firmware development.
 
 ## Features
 - **MCU**: STM32H753IIK6 (Cortex-M7 @ 400MHz, 2MB Flash, 1MB RAM)
@@ -26,5 +25,5 @@ This repository serves as a minimal, well-structured foundation for further flig
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Aerocopter/FCM.git
-   cd FCM
+   git clone https://github.com/Aerocopter/RS485_HUB.git
+   cd RS485_HUB
